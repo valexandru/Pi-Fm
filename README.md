@@ -7,7 +7,7 @@ What do you need?
  
 1. a raspberry pi connected to internet 
 2. icecast2 installed
-2. (optional) a microphone connected to the pi(Sing Star microphone from PS3 
+3. (optional) a microphone connected to the pi(Sing Star microphone from PS3 
 work, tested with the blue one)
 
 
